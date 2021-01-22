@@ -1,7 +1,4 @@
 one
 two
-three
-
-changes
-
-final changes
+ready?
+Go!
